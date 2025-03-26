@@ -1,4 +1,6 @@
 import discord
+import requests
+import json
 
 """ This method is called when the bot has successfully connected to Discord and is ready to start interacting with the API."""
 class MyClient(discord.Client):
@@ -9,7 +11,7 @@ intents.message_content = True
 
 """Starting client and authenticating with Discord"""
 client = MyClient(intents=intents)
-client.run('MTM1NDI1MDkxMzE3MDMyOTc5Mg.GPI5Wt.xL9NdtPJCG39fRJ9XR9yQ-vymECc_nT1MJvnhE')
+client.run('Your Token Here')
 
 """Reading and responding to messages"""
 async def on_message(self, message):
