@@ -11,6 +11,6 @@ SETUP:
 PROGRAMMING:
 1. Install and import of Discord libs
 2. Log onto Discord server with the bot
-3. Running the bot and resonding to messages
+3. Running the bot and responding to messages
 4. Configuring the bot to send memes via API
 5. Cooking up the best memes of the modern age
