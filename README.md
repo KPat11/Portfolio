@@ -13,3 +13,4 @@ Here is what I have committed so far:
 - Hot Dog or Not a Hot Dog inspired by the show Silicon Valley
 - Building an AI search engine using Exa API
 - Using GenAI to create blog posts
+- More work coming soon ... 
