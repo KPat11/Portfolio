@@ -5,3 +5,5 @@ This was inspired from the fictional character Jin Yang who was looking for fund
 - When uploading an image to the web form it will send that data to the hugging face model via API
 - This will return prediction scores for "hot dog" and "not a hot dog"
 Skills used: Flask, Python3 and libraries, API connections, Hugging Face
+
+NOTE: Same as my other projects, I removed my tokens so if you would like to run it please go to Hugging Face https://huggingface.co/settings/tokens and create a token, and add it to .env file. Then you are ready to run the web.py file and open the url's provided in the terminal output.
