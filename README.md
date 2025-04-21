@@ -15,7 +15,7 @@ Demonstrating my foundational understanding of using APIs to create compact, val
 - Building a Discord Bot with Python
 - Hot Dog or Not a Hot Dog inspired by the show Silicon Valley
 - Building an AI search engine using Exa API
-- Using GenAI to create blog posts
+- EDA with Bestselling Book data pulled from Kaggle API
 
 MLE-Focused Projects:
 Showcasing my experience as an MLE pre and post LLM boom
