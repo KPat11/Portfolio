@@ -10,4 +10,5 @@ My goal is to demonstrate my programming abilities in the following areas:
 I will be periodically committing my personal projects in this repo. 
 Here is what I have committed so far:
 - Building a Discord Bot with Python
-- Using GenAI to create blog posts
+- Building a Search Engine with AI (Exa)
+- Experimenting with Bestselling Book data through EDA and Visualizations
