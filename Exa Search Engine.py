@@ -1,4 +1,4 @@
-from exa_py import Exa # type: ignore
+from exa_py import Exa
 
 #please add your generated api key from exa's website
 exa = Exa('API KEY')
