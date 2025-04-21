@@ -1,3 +1,4 @@
+#library available after installing exa_py via command line
 from exa_py import Exa
 
 #please add your generated api key from exa's website
