@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+sentence-transformers
+faiss-cpu
+llama-index
+transformers
+scikit-learn
+gym
+stable-baseline3
+matplotlib
