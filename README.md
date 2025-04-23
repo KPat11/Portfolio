@@ -7,7 +7,7 @@ A multi-agent AI system that scrapes real-time financial news, performs RAG-base
 - LLM: Mixtral, LLaMA2
 - Vector DB: FAISS / ChromaDB
 - RL: Stable-Baselines3
-- Data: Yahoo Finance, scraped news
+- Data:Investing, Finanical Times, WSJ, Bloomsberg, etc.
 
 ## 💡 Features
 - Agent-based scraping, analysis, and decision-making
