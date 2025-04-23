@@ -1,6 +1,6 @@
 """
 # AutoFinGPT 🧠💰
-*I and this model are not financial advisors -- this is purely for experimentation*
+*WARNING: I and this model are not financial advisors -- this is purely for experimentation and to showcase my skills and experience*
 
 A fully local, open-source multi-agent AI system that ingests financial news, analyzes it using Retrieval-Augmented Generation (RAG), and simulates portfolio decision-making with Reinforcement Learning.
 Gives some valuable insight but keep in mind this is local LLM, also the more data the better the results. If you would like to create a cron job in the background that constantly pulls RSS feeds it may help with accuracy.
