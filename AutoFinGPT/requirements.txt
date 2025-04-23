@@ -7,5 +7,7 @@ llama-index
 transformers
 scikit-learn
 gym
-stable-baseline3
+stable-baselines3
 matplotlib
+shimmy
+accelerate

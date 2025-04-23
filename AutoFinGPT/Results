@@ -1,0 +1,139 @@
+🚀 AutoFinGPT: Multi-Agent Financial Intelligence System
+
+📥 Scraping RSS headlines...
+
+[2025-04-23 00:00:50.211990] Fetching from MarketWatch
+10 total | 0 new | ⏭ 10 skipped for MarketWatch
+
+[2025-04-23 00:01:39.178563] Fetching from The Economist
+300 total | 0 new | ⏭ 300 skipped for The Economist
+
+[2025-04-23 00:01:48.682409] Fetching from FT
+10 total | 0 new | ⏭ 10 skipped for FT
+
+[2025-04-23 00:01:58.402756] Fetching from CNN Business
+1 total | 0 new | ⏭ 1 skipped for CNN Business
+
+[2025-04-23 00:02:08.071368] Fetching from CNBC
+30 total | 0 new | ⏭ 30 skipped for CNBC
+
+[2025-04-23 00:02:17.652274] Fetching from Money Morning
+Error fetching Money Morning: 403 Client Error: Forbidden for url: https://moneymorning.com/feed/
+
+[2025-04-23 00:02:27.105295] Fetching from TheStreet
+50 total | 0 new | ⏭ 50 skipped for TheStreet
+
+[2025-04-23 00:02:36.796748] Fetching from Kiplinger
+Error fetching Kiplinger: 404 Client Error: Not Found for url: https://www.kiplinger.com/rss/kiplinger.rss
+
+[2025-04-23 00:02:50.351599] Fetching from Investing.com
+Added: Chinese automaker Zeekr debuts first hybrid model at Shanghai auto show
+10 total | 1 new | ⏭ 9 skipped for Investing.com
+
+[2025-04-23 00:02:58.392953] Fetching from WSJ
+20 total | 0 new | ⏭ 20 skipped for WSJ
+
+[2025-04-23 00:03:17.439224] Fetching from Forbes
+25 total | 0 new | ⏭ 25 skipped for Forbes
+
+[2025-04-23 00:03:36.082597] Fetching from Reuters
+Error fetching Reuters: HTTPConnectionPool(host='feeds.reuters.com', port=80): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x309539e50>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+[2025-04-23 00:03:45.721569] Fetching from Bloomberg (ETFs)
+0 total | 0 new | ⏭ 0 skipped for Bloomberg (ETFs)
+
+🔍 What financial question would you like to ask?
+> I have AAPL, NVDA, and WMT stocks, should I buy, sell, or hold?
+
+📊 Retrieving relevant news...
+
+🧠 Generating insight with local LLM...
+
+📝 Summary:
+
+Answer this question using financial headlines: I have AAPL, NVDA, and WMT stocks, should I buy, sell, or hold?Summarize this week's financial headlines:
+The best time of day to own stocks is actually at night
+Heard on the Street's Stock-Picking Series
+Stock Market Today: Stocks bounce back with Tesla report on deck
+'Definitely buy right now' if you want a new smartphone, says retail expert—before tariffs escalate
+Indians are losing big on the stockmarket right now, says expert
+A stock picker with a proven track record reveals why he's a bit bullish on Tesla right now
+This week, Apple stock plummeted 9.5%. Here's what I'm expecting.
+Market Snapshot - Here's what we look at in the first week of October on the charts, according to our in-house chart-watchers.
+How to become a successful stock picker
+How many years did Dylan Ratigan, co-founder of retail expert Heard on the Street, retire from?
+Did Dylan Ratigan retire due to age or financial reasons, or did the pair
+(venv) venvKen@MacBookPro AutoFinGPT % /Users/Ken/Portfolio/AutoFinGPT/venv/bin/python /Users/Ken/Portfolio/AutoFinGPT/main.py
+Device set to use mps
+
+🚀 AutoFinGPT: Multi-Agent Financial Intelligence System
+
+
+🔍 What financial question would you like to ask?
+> Should I bearish on the market?
+
+📊 Retrieving relevant news...
+
+🧠 Generating insight with local LLM...
+
+📝 Summary:
+
+Answer this question using financial the financial data gathered: Should I bearish on the market?Summarize this week's financial headlines:
+Jim Cramer says the bear market rally could become a real recovery
+The market mayhem will not be forgotten easily
+'Definitely buy right now' if you want a new smartphone, says retail expert—before tariffs escalate
+Heard on the Street's Stock-Picking Series
+Nordstrom Rack is selling a $270 Berghoff Dutch oven for $129, and it provides ‘excellent heat distribution’
+Josh Selby's return to Madison Square Garden is set to be epic: "Excited" NBA Draft Lottery winner to play his first game in the Big Apple.
+(venv) venvKen@MacBookPro AutoFinGPT % /Users/Ken/Portfolio/AutoFinGPT/venv/bin/python /Users/Ken/Portfolio/AutoFinGPT/main.py
+Device set to use mps
+
+🚀 AutoFinGPT: Multi-Agent Financial Intelligence System
+
+
+🔍 What financial question would you like to ask?
+> How is the S&P 500 doing?
+
+📊 Retrieving relevant news...
+
+🧠 Generating insight with local LLM...
+
+📝 Summary:
+
+Answer this question using financial the financial data gathered: How is the S&P 500 doing?
+Here is what reputable financial news outlets are saying:
+US stock futures surge as Trump tempers stance; Tesla soars past weak Q1
+Tesla Earnings: Elon Musk’s Firm Reports Worst Quarterly Profit Since 2021
+How worrying is the weakening dollar?
+Financial Services Roundup: Market Talk
+Trump Media pushes forward with pivot to crypto, ETF plans gain steam
+The crypto firms will face the barrel from some major crypto exchanges next month. After the US Government’s Securities and Exchange Commission’s (SEC) clearance, Tron, Polkadot and XRP will face the regulatory scrutiny from a long list of exchanges.
+Traditional stock ETFs are gaining popularity, and more competitors emerge each week such as the ProShares Ultra-Short Invesco QQQ ETF (QQQU) and the iShares Russell 2000 ETF (IWB).
+Exclusive Offer for Ideal Prospects: Sign Up
+(venv) venvKen@MacBookPro AutoFinGPT % /Users/Ken/Portfolio/AutoFinGPT/venv/bin/python /Users/Ken/Portfolio/AutoFinGPT/main.py
+Device set to use mps
+
+🚀 AutoFinGPT: Multi-Agent Financial Intelligence System
+
+
+🔍 What financial question would you like to ask?
+> How is Tesla doing?
+
+📊 Retrieving relevant news...
+
+🧠 Generating insight with local LLM...
+
+📝 Summary:
+
+Answer this question using financial the financial data gathered: How is Tesla doing?
+Here is what reputable financial news outlets are saying:
+Tesla is ‘carefully’ working on its India entry amid tariff concerns, says CFO
+US stock futures surge as Trump tempers stance; Tesla soars past weak Q1
+Tesla Earnings: Elon Musk’s Firm Reports Worst Quarterly Profit Since 2021
+Tesla's next big unveil reinvents an American classic
+Musk to prioritise Tesla over White House role as profits slump
+Tesla’s second-quarterly profit was $581 million after $81 million in one-time impacts, compared with $4.7 billion, or $3.21 per share, a year ago.
+Tesla said adjusted earnings per share in the quarter that ended March 30 fell about 5.4 percent.
+“We are confident in Tesla's growth plans and are pleased with our performance in fiscal 3Q21,” Chief Executive Officer Elon Musk said in a text.
+The electric carmaker is now working to develop a new model with a 280-mile range that its CEO says will start hitting show
+(venv) venvKen@MacBookPro AutoFinGPT % 
