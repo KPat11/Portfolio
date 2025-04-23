@@ -21,9 +21,6 @@ A multi-agent AI system that scrapes real-time financial news, performs RAG-base
 - `/rl_env` – Gym environment for trading decisions
 - `/data` – Includes synthetic and real scraped data
 
-## 📊 Sample Output
-![Demo Screenshot](demo/screenshots/portfolio_results.png)
-
 ## 🛠️ Setup
 
 ```bash
