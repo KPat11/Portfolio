@@ -45,7 +45,7 @@ This will simulate trading over 100 timesteps and save the agent under `models/p
 ## 🧠 Technologies
 - SentenceTransformers
 - FAISS
-- Hugging Face Transformers (e.g., Mistral 7B)
+- Hugging Face Transformers and TinyLLama
 - Stable-Baselines3 (PPO)
 
 ## 👨‍💻 Author
